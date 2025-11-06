@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\",
+  "WorkspaceRootPath": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D49CCD8-EB43-49A5-82F9-462A8CAD8069}|PDFPoc.iTextSharp\\PDFPoc.iTextSharp.csproj|c:\\users\\rfaxas\\source\\pdfpoc\\pdfpoc\\pdfpoc.itextsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E64194DD-5DA7-4A54-BDFC-F246A686A1D7}|PDFPoc.PdfSharp\\PDFPoc.PdfSharp.csproj|c:\\users\\rfaxas\\source\\repos\\testreadfile\\pdfpoc\\pdfpoc.pdfsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64194DD-5DA7-4A54-BDFC-F246A686A1D7}|PDFPoc.PdfSharp\\PDFPoc.PdfSharp.csproj|solutionrelative:pdfpoc.pdfsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF52A54-ACF4-47CC-B35E-DDF8F13E6569}|PdfPig\\PdfPig.csproj|c:\\users\\rfaxas\\source\\repos\\testreadfile\\pdfpoc\\pdfpig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF52A54-ACF4-47CC-B35E-DDF8F13E6569}|PdfPig\\PdfPig.csproj|solutionrelative:pdfpig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5C7C85-A20F-4500-AF64-19D032CA7110}|iTextSharp\\PDFPoc.iText.csproj|c:\\users\\rfaxas\\source\\repos\\testreadfile\\pdfpoc\\itextsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5C7C85-A20F-4500-AF64-19D032CA7110}|iTextSharp\\PDFPoc.iText.csproj|solutionrelative:itextsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D49CCD8-EB43-49A5-82F9-462A8CAD8069}|PDFPoc.iTextSharp\\PDFPoc.iTextSharp.csproj|c:\\users\\rfaxas\\source\\repos\\testreadfile\\pdfpoc\\pdfpoc.itextsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D49CCD8-EB43-49A5-82F9-462A8CAD8069}|PDFPoc.iTextSharp\\PDFPoc.iTextSharp.csproj|solutionrelative:pdfpoc.itextsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5C7C85-A20F-4500-AF64-19D032CA7110}|iTextSharp\\iTextSharp.csproj|c:\\users\\rfaxas\\source\\pdfpoc\\pdfpoc\\itextsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5C7C85-A20F-4500-AF64-19D032CA7110}|iTextSharp\\iTextSharp.csproj|solutionrelative:itextsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F8D6DA-8366-4B92-A836-77B3A843FDF3}|PDFPoc.Syncfusion\\PDFPoc.Syncfusion.csproj|c:\\users\\rfaxas\\source\\pdfpoc\\pdfpoc\\pdfpoc.syncfusion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80F8D6DA-8366-4B92-A836-77B3A843FDF3}|PDFPoc.Syncfusion\\PDFPoc.Syncfusion.csproj|c:\\users\\rfaxas\\source\\repos\\testreadfile\\pdfpoc\\pdfpoc.syncfusion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80F8D6DA-8366-4B92-A836-77B3A843FDF3}|PDFPoc.Syncfusion\\PDFPoc.Syncfusion.csproj|solutionrelative:pdfpoc.syncfusion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -184,9 +192,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\PDFPoc.iTextSharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\PDFPoc.PdfSharp\\Program.cs",
+              "RelativeDocumentMoniker": "PDFPoc.PdfSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\PDFPoc.PdfSharp\\Program.cs",
+              "RelativeToolTip": "PDFPoc.PdfSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:33:23.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\PdfPig\\Program.cs",
+              "RelativeDocumentMoniker": "PdfPig\\Program.cs",
+              "ToolTip": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\PdfPig\\Program.cs",
+              "RelativeToolTip": "PdfPig\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:30:59.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\PDFPoc.iTextSharp\\Program.cs",
               "RelativeDocumentMoniker": "PDFPoc.iTextSharp\\Program.cs",
-              "ToolTip": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\PDFPoc.iTextSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\PDFPoc.iTextSharp\\Program.cs",
               "RelativeToolTip": "PDFPoc.iTextSharp\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -195,24 +229,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\iTextSharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\iTextSharp\\Program.cs",
               "RelativeDocumentMoniker": "iTextSharp\\Program.cs",
-              "ToolTip": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\iTextSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\iTextSharp\\Program.cs",
               "RelativeToolTip": "iTextSharp\\Program.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAowIsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T12:14:49.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\PDFPoc.Syncfusion\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\PDFPoc.Syncfusion\\Program.cs",
               "RelativeDocumentMoniker": "PDFPoc.Syncfusion\\Program.cs",
-              "ToolTip": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\PDFPoc.Syncfusion\\Program.cs",
+              "ToolTip": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\PDFPoc.Syncfusion\\Program.cs",
               "RelativeToolTip": "PDFPoc.Syncfusion\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

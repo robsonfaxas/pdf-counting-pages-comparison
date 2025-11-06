@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3GQWNWrWuM=",
+  "dgSpecHash": "SGNiuWQg5Ew=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\PDFPoc.iTextSharp\\PDFPoc.iTextSharp.csproj",
+  "projectFilePath": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\PDFPoc.iTextSharp\\PDFPoc.iTextSharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rfaxas\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\rfaxas\\.nuget\\packages\\itextsharp.lgplv2.core\\3.7.8\\itextsharp.lgplv2.core.3.7.8.nupkg.sha512",

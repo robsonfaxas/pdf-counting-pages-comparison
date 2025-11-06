@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "26gXyjUlFJw=",
+  "dgSpecHash": "4Nv6J6C+WhE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\PDFPoc.Syncfusion\\PDFPoc.Syncfusion.csproj",
+  "projectFilePath": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\PDFPoc.Syncfusion\\PDFPoc.Syncfusion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rfaxas\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\rfaxas\\.nuget\\packages\\syncfusion.compression.net.core\\31.2.5\\syncfusion.compression.net.core.31.2.5.nupkg.sha512",

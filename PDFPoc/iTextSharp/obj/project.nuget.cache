@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+6gutUuKezo=",
+  "dgSpecHash": "Kvm8M1xbvck=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\iTextSharp\\PDFPoc.iText.csproj",
+  "projectFilePath": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\iTextSharp\\PDFPoc.iText.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rfaxas\\.nuget\\packages\\itext\\9.3.0\\itext.9.3.0.nupkg.sha512",
     "C:\\Users\\rfaxas\\.nuget\\packages\\itext.commons\\9.3.0\\itext.commons.9.3.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDFPoc.iText")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8deb3f35f98f6e389078c8a70a030a1de35b32f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDFPoc.iText")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDFPoc.iText")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

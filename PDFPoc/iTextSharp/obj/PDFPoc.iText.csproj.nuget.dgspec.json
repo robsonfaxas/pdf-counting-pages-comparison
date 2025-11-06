@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\iTextSharp\\PDFPoc.iText.csproj": {}
+    "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\iTextSharp\\PDFPoc.iText.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\iTextSharp\\PDFPoc.iText.csproj": {
+    "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\iTextSharp\\PDFPoc.iText.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\iTextSharp\\PDFPoc.iText.csproj",
+        "projectUniqueName": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\iTextSharp\\PDFPoc.iText.csproj",
         "projectName": "PDFPoc.iText",
-        "projectPath": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\iTextSharp\\PDFPoc.iText.csproj",
+        "projectPath": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\iTextSharp\\PDFPoc.iText.csproj",
         "packagesPath": "C:\\Users\\rfaxas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\iTextSharp\\obj\\",
+        "outputPath": "C:\\Users\\rfaxas\\source\\repos\\TestReadFile\\PDFPoc\\iTextSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
