@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "26gXyjUlFJw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rfaxas\\source\\PDFPoc\\PDFPoc\\PDFPoc.Syncfusion\\PDFPoc.Syncfusion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rfaxas\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\rfaxas\\.nuget\\packages\\syncfusion.compression.net.core\\31.2.5\\syncfusion.compression.net.core.31.2.5.nupkg.sha512",
+    "C:\\Users\\rfaxas\\.nuget\\packages\\syncfusion.licensing\\31.2.5\\syncfusion.licensing.31.2.5.nupkg.sha512",
+    "C:\\Users\\rfaxas\\.nuget\\packages\\syncfusion.pdf.net.core\\31.2.5\\syncfusion.pdf.net.core.31.2.5.nupkg.sha512",
+    "C:\\Users\\rfaxas\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
